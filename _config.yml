@@ -6,18 +6,18 @@ url: 'https://abc.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  首页: '/'
+  首页: '/index.html'
   标签: '/tags.html'
   时间线: '/timeline.html'
   关于博主: '/about.html'
   友情链接: '/friendLink.html'
 
 # 博主
-author: true
-name: 'your awesome name'
+author: Wyq.uestc.com
+name: '一只想当全栈的小白'
 NickName: 'your awesome nickname'
 webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+bio: '全职高手'
 about: true
 aboutyou: 'your introduction'
 portraits: '/assets/profile.jpeg' # your portraits image file path
