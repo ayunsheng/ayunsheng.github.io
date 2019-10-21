@@ -19,7 +19,7 @@ NickName: 'your awesome nickname'
 webtitle: 'your awesome webtitle'
 bio: '全职高手'
 about: true
-aboutyou: 'your introduction'
+aboutyou: '高手'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
