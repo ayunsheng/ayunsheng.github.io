@@ -20,7 +20,7 @@ webtitle: '这是一个神奇的网站'
 bio: '目前攻城Android'
 about: true
 aboutyou: '一切都是自由'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/xm.jpg' # your portraits image file path
 
 # SNS
 SNS: true
