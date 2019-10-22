@@ -2,10 +2,9 @@
 layout: post
 title: "分享线性代数第一章笔记"
 date: 2019-10-22 16：15：20 +0800
-author: Wyq.uestc
+tags:MyBlog
 color: rgb(255,210,32)
 cover: '../assets/笔记.jpg'
-tags: MyBlog
 subtitle:整理不好请见谅，欢迎提出修改意见
 ---
    
