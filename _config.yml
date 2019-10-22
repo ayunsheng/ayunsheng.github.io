@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
+title: '这是一个简单的博客'
+description: '懒，还没想好描述呢hhh'
+keywords: '简单菜鸟易读, 一只小白'
 url: 'https://abc.github.io' # your host
 
 # nav 中文字符空格：&emsp;
@@ -13,13 +13,13 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   友情链接: '/friendLink.html'
 
 # 博主
-author: Wyq.uestc.com
+author: true
 name: '一只想当全栈的小白'
 NickName: 'your awesome nickname'
 webtitle: 'your awesome webtitle'
-bio: '全职高手'
+bio: '目前攻城Android'
 about: true
-aboutyou: '高手'
+aboutyou: '一切都是自由'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -29,16 +29,16 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   weixin: '' # 你的微信二维码存放的地址
   qq: 'http://wpa.qq.com/msgrd?v=3&uin='2628405129'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
-  Codepen: ''
+# Codepen: ''
   weibo: ''
-  instagram: ''
+# instagram: ''
   Twitter: ''
-  Dribbble: ''
+# Dribbble: ''
   Facebook: ''
   Google: ''
   zhihu: ''
-  juejin: ''
-  twitch: ''
+# juejin: ''
+# twitch: ''
 
 # 分页
 paginate: 2
