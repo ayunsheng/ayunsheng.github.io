@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "历史上百万难题的趣解"
+date:   2019-10-22 20：15：20 +0800
+tags: MyBlog
+color: rgb(255,210,32)
+cover: 'https://upload-images.jianshu.io/upload_images/12118811-db48dc1619551b24.png?imageMogr2/auto-orient/strip|imageView2/2/w/378/format/webp'
+subtitle: '随便康康，康不懂没关系'
+---
+    
+     
+>两个百万富翁都想比较到底谁更富有，但是有都不想让别人知道自己有多少钱,在没有可信的第三方的情况下如何进行？
+#
