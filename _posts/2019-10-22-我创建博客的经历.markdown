@@ -5,7 +5,7 @@ date: 2019-10-21
 author: Wyq.uestc
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+tags: MyBlog
 ---
 
 
