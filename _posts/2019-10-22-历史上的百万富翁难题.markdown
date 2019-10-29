@@ -93,6 +93,6 @@ Zu=Yu mod p , u属于[1, 10]
 
 
 作者：胡飞瞳  
-链接：https://www.jianshu.com/p/5a220e95cee2  
+链接：<https://www.jianshu.com/p/5a220e95cee2>  
 来源：简书  
 
