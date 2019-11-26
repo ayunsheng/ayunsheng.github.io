@@ -4,7 +4,7 @@ title:  "英语随手记「第一天」"
 date:   2019-11-26 11：29：20 +0800
 tags:  学习资料 English 随记
 color: rgb(255,210,32)
-cover: 'https://www.baidu.com/sf/vsearch?pd=image_content&word=%E8%8B%B1%E8%AF%AD&tn=vsearch&atn=mediacy&fr=tab&sa=vs_tab_d&imgpn=3&imgspn=0&tt=1&di=&pi=0&cs=3764399982%2C4190393934&imgos=&imgis=&imgtype=1&ssrlid=11530629612019649363'
+cover: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3214675650,207725310&fm=26&gp=0.jpg'
 subtitle: '11月26日记'
 ---
   
