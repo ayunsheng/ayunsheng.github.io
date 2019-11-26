@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "英语随手记「第一天」"
+title:  "英语随记「The first day」"
 date:   2019-11-26 11：29：20 +0800
 tags:  学习资料 English 随记
 color: rgb(255,210,32)
